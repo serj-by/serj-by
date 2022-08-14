@@ -4,7 +4,9 @@
 - 📫 How to reach me:
 
 S: serj-smoke
+
 LI: https://www.linkedin.com/in/serj-by
+
 E: ask me
 
 <!---
