@@ -3,9 +3,9 @@
 - 🌱 I’m currently learning Python, Bash and POSIX shell scripting
 - 📫 How to reach me:
 
-S: serj-smoke
+<img src="https://raw.githubusercontent.com/serj-by/serj-by/main/imgs/skype-logo.png" width=15 height=15> S: serj-smoke
 
-LI: https://www.linkedin.com/in/serj-by
+<img src="https://raw.githubusercontent.com/serj-by/serj-by/main/imgs/li-logo.png" width=15 height=15> LI: https://www.linkedin.com/in/serj-by
 
 📧 E: ask me
 
