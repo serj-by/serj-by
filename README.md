@@ -7,7 +7,7 @@ S: serj-smoke
 
 LI: https://www.linkedin.com/in/serj-by
 
-E: ask me
+📧 E: ask me
 
 <!---
 serj-by/serj-by is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
